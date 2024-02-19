@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListAndSearchView</string>
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Bahrain</item>
+        <item>Bhutan</item>
+        <item>Bangladesh</item>
+        <item>Pakistan</item>
+        <item>Iran</item>
+        <item>Afganistan</item>
+        <item>Queat</item>
+        <item>Australia</item>
+        <item>Armenia</item>
+        <item>Bahrain</item>
+        <item>Bhutan</item>
+        <item>Nepal</item>
+        <item>Indonesia</item>
+        <item>China</item>
+        <item>Newjeland</item>
+        <item>Austraila</item>
+        <item>Japan</item>
+        <item>Saoudia</item>
+    </string-array>
+</resources>

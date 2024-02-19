@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCustomToastDemo</string>
+    <string name="button_text">Login</string>
+    <string name="toast_text">You have click login button</string>
+</resources>
